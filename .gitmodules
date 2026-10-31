@@ -1,0 +1,3 @@
+[submodule "themes/apollo-portfolio"]
+	path = themes/apollo-portfolio
+	url = https://github.com/lasercata/apollo-portfolio.git
