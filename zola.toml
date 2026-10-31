@@ -32,6 +32,9 @@ favicon = "/icons/favicon.ico"
 repo_url = "https://github.com/lasercata/apollo-portfolio/"
 repo_view = false
 
+allow_missing_translation_pages = false
+allow_missing_translation_sections = false
+
 toc = true
 theme = "toggle"              # light, dark, auto, toggle, toggle-auto
 fancy_code = false
