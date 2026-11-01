@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://example.com"
+base_url = "https://louis.thomasgirardey.fr"
 
 build_search_index = false
 compile_sass = true
@@ -29,7 +29,7 @@ title = "Louis THOMAS-GIRARDEY"
 copyright = "Louis THOMAS-GIRARDEY"
 favicon = "/icons/favicon.ico"
 
-repo_url = "https://github.com/lasercata/apollo-portfolio/"
+repo_url = "https://github.com/louis-tg/portfolio/"
 repo_view = false
 
 allow_missing_translation_pages = false
@@ -42,8 +42,9 @@ dynamic_note = true           # a note that can be toggled
 mathjax = false
 
 socials = [
-    { name = "github", url = "https://github.com/", icon = "github" },
-    { name = "email", url = "mailto:mail@example.com", icon = "email" },
+    { name = "github", url = "https://github.com/lasercata", icon = "github" },
+    { name = "linkedin", url = "https://linkedin.com/in/louis-tg", icon = "linkedin" },
+    { name = "email", url = "mailto:louis@thomasgirardey.fr", icon = "email" },
 ]
 
 [extra.analytics]
