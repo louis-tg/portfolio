@@ -2,11 +2,11 @@
 title = "IoT parking management"
 description = "Prototype de gestion de parking IoT"
 weight = 2
-date = 2026-02-18
+date = 2026-01-01
 
 [extra]
 local_image = "/content/projects/iot_parking_management/archi_dark.png"
-github = "https://github.com/github.com/iot_parking_management"
+github = "https://github.com/lasercata/iot_parking_management"
 demo = "https://iot.lasercata.com/"
 tags = ["iot", "python", "flask", "mqtt", "mongoDB"]
 +++
