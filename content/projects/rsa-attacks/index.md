@@ -1,7 +1,7 @@
 +++
 title = "RSA attacks"
 description = "RSA implementation and attacks for the TIPE exam"
-weight = 2
+weight = 12
 date = 2023-07-01
 
 [extra]

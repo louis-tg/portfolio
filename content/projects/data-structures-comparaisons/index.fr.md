@@ -1,7 +1,7 @@
 +++
 title = "Comparaison de structures de données"
 description = "Comparaison des opérations de recherche des tables de hachage, arbres binaires de recherche et AVL"
-weight = 2
+weight = 10
 date = 2024-05-20
 
 [extra]

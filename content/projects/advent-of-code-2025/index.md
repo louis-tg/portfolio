@@ -1,7 +1,7 @@
 +++
 title = "Advent of Code 2025"
 description = "My solutions for the 2025 Advent of Code, in Rust"
-weight = 5
+weight = 24
 date = 2025-12-01
 
 [extra]

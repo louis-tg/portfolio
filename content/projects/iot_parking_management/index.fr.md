@@ -1,7 +1,7 @@
 +++
 title = "IoT parking management"
 description = "Prototype de gestion de parking IoT"
-weight = 2
+weight = 5
 date = 2026-01-01
 
 [extra]

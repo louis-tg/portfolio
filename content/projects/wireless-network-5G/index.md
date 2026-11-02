@@ -1,7 +1,7 @@
 +++
 title = "5G NR receiver/decoder"
 description = "Implementation of a simplified 5G NR receiver/decoder"
-weight = 2
+weight = 8
 date = 2025-05-21
 
 [extra]

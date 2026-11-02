@@ -1,7 +1,7 @@
 +++
 title = "Data structures comparaisons"
 description = "Hash table, binary search tree and AVL comparisons of search operations"
-weight = 2
+weight = 10
 date = 2024-05-20
 
 [extra]

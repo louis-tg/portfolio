@@ -1,7 +1,7 @@
 +++
 title = "Homelab"
 description = "My own cloud"
-weight = 2
+weight = 6
 date = 2025-11-21
 
 [extra]

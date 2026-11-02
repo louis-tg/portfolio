@@ -1,7 +1,7 @@
 +++
 title = "Compiler"
 description = "Simple compiler for an abstract source language"
-weight = 2
+weight = 8
 date = 2025-03-25
 
 [extra]
@@ -12,8 +12,8 @@ tags = ["python", "grammar", "interpretor"]
 Implementation of a compiler in Python, for a simplified programmation language (*NilNovi*).
 
 My role was to coordinate the team of six. Three sub-teams where organized:
-- Identifier table;
-- Compiler;
-- Interpretor.
+- Identifier table (symbols management and scope);
+- Compiler (syntax analysis and code generation);
+- Interpretor (execution of generated code).
 
-I made sure that the developments of all sub-teams would be compatible.
+I ensured seamless integration of all sub-teams developments while actively contributing to the codebase.

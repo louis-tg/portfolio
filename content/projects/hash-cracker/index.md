@@ -1,7 +1,7 @@
 +++
 title = "HashCracker"
 description = "Multithreaded hash cracker using brute-force"
-weight = 2
+weight = 22
 date = 2025-04-09
 
 [extra]
