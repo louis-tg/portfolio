@@ -22,7 +22,8 @@ template = "homepage.html"
 
 <div class="homepage-hero">
     <h1 class="homepage-hero-title">Louis THOMAS-GIRARDEY</h1>
-    <p class="homepage-hero-subtitle">Ingénieur logiciel & DevOps</p>
+    <!-- <p class="homepage-hero-subtitle">Ingénieur logiciel & DevOps</p> -->
+    <p class="homepage-hero-subtitle">Ingénieur génie logiciel, cybersécurité & infrastructure</p>
 </div>
 
 # Profil
