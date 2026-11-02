@@ -29,3 +29,21 @@ template = "homepage.html"
 # Profil
 Ingénieur diplômé de l'ENSSAT Lannion, je conçois des logiciels robustes et sécurisés, de l'architecture à la mise en production.
 Mes expériences en développement full-stack, IoT et rendu 3D temps réel m'ont appris à travailler sur des chaînes complètes, du capteur à l'interface.
+
+<div class="homepage-hero">
+    <a href="/media/CV_Louis_TG__2026-11-01.pdf" target="_blank">
+        Mon CV &darr;
+    </a>
+    <a href="/projects" style="margin-left: 20px">
+        Mes projets &rarr;
+    </a>
+</div>
+
+# Expériences professionnelles
+TODO
+
+# Formation
+TODO
+
+# Compétences
+TODO
