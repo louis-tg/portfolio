@@ -1,5 +1,9 @@
 +++
 template = "homepage.html"
+
+[extra]
+path_to_exp = "experience/_index.md"
+path_to_edu = "education/_index.md"
 +++
 
 <style>
@@ -21,11 +25,12 @@ template = "homepage.html"
 
 <div class="homepage-hero">
     <h1 class="homepage-hero-title">Louis THOMAS-GIRARDEY</h1>
-    <p class="homepage-hero-subtitle">Software engineer & DevOps</p>
+    <!-- <p class="homepage-hero-subtitle">Software engineer & DevOps</p> -->
+    <p class="homepage-hero-subtitle">Software engineering, cybersecurity & infrastructure engineer</p>
 </div>
 
 # About
-Engineer graduated from ENSSAT, I design robust and secure softwares, from architecture to production.
+Engineer graduated from ENSSAT, I **design robust and secure softwares,** from architecture to production.
 My experiences in full-stack development, IoT and real-time 3D rendering taught me how to work on the complete supply chains.
 
 <div class="homepage-hero">
@@ -37,11 +42,5 @@ My experiences in full-stack development, IoT and real-time 3D rendering taught 
     </a>
 </div>
 
-# Experience
-TODO
-
-# Education
-TODO
-
-# Skills
-TODO
+<!-- # Skills -->
+<!-- TODO -->

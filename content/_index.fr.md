@@ -1,5 +1,9 @@
 +++
 template = "homepage.html"
+
+[extra]
+path_to_exp = "experience/_index.md"
+path_to_edu = "education/_index.md"
 +++
 
 <style>
@@ -27,7 +31,7 @@ template = "homepage.html"
 </div>
 
 # Profil
-Ingénieur diplômé de l'ENSSAT Lannion, je conçois des logiciels robustes et sécurisés, de l'architecture à la mise en production.
+Ingénieur diplômé de l'ENSSAT Lannion, **je conçois des logiciels robustes et sécurisés,** de l'architecture à la mise en production.
 Mes expériences en développement full-stack, IoT et rendu 3D temps réel m'ont appris à travailler sur des chaînes complètes, du capteur à l'interface.
 
 <div class="homepage-hero">
@@ -39,11 +43,5 @@ Mes expériences en développement full-stack, IoT et rendu 3D temps réel m'ont
     </a>
 </div>
 
-# Expériences professionnelles
-TODO
-
-# Formation
-TODO
-
-# Compétences
-TODO
+<!-- # Compétences -->
+<!-- TODO -->
