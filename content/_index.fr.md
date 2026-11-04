@@ -35,7 +35,7 @@ Ingénieur diplômé de l'ENSSAT Lannion, **je conçois des logiciels robustes e
 Mes expériences en développement full-stack, IoT et rendu 3D temps réel m'ont appris à travailler sur des chaînes complètes, du capteur à l'interface.
 
 <div class="homepage-hero">
-    <a href="/media/CV_Louis_TG__2026-11-01.pdf" target="_blank">
+    <a href="/media/CV_Louis_TG__2026-11-04.pdf" target="_blank">
         Mon CV &darr;
     </a>
     <a href="/fr/projects" style="margin-left: 20px">

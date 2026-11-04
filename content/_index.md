@@ -34,7 +34,7 @@ Engineer graduated from ENSSAT, I **design robust and secure softwares,** from a
 My experiences in full-stack development, IoT and real-time 3D rendering taught me how to work on the complete supply chains.
 
 <div class="homepage-hero">
-    <a href="/media/CV_Louis_TG__2026-11-01.pdf" target="_blank">
+    <a href="/media/CV_Louis_TG__2026-11-04.pdf" target="_blank">
         Download my Résumé &darr;
     </a>
     <a href="/projects" style="margin-left: 20px">
