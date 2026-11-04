@@ -9,12 +9,12 @@ meta = [
     { property = "og:title", content = "Louis THOMAS-GIRARDEY" },
     { property = "og:description", content = "Software engineering, cybersecurity & infrastructure engineer" },
     { property = "og:url", content = "https://louis.thomasgirardey.fr" },
-    { property = "og:image", content = "https://louis.thomasgirardey.fr/media/og_imge_dark.png" },
+    { property = "og:image", content = "https://louis.thomasgirardey.fr/media/og_image_dark.png" },
 
     { name = "twitter:card", content = "summary_large_image" },
     { name = "twitter:title", content = "Louis THOMAS-GIRARDEY" },
     { name = "twitter:description", content = "Software engineering, cybersecurity & infrastructure engineer" },
-    { name = "twitter:image", content = "https://louis.thomasgirardey.fr/media/og_imge_dark.png" },
+    { name = "twitter:image", content = "https://louis.thomasgirardey.fr/media/og_image_dark.png" },
 ]
 +++
 
