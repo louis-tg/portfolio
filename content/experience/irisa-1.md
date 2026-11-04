@@ -18,3 +18,4 @@ card_links = [
 tags = ["javascript", "Vue.js", "Python", "neo4j"]
 +++
 
+![Poster](/media/stage_skrid_louis_poster.png)

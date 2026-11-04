@@ -16,3 +16,5 @@ card_links = [
 
 tags = ["flet", "C", "3D-real-time"]
 +++
+
+![Poster](/media/stage_psm_louis_poster.png)
