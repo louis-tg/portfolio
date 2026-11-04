@@ -8,7 +8,4 @@ name = "Victor Hugo high-school"
 local_image = "/content/education/media/logo_belin.png"
 duration = "2021 - 2023"
 location = "Besançon, France"
-
-tags = ["C", "OCaml", "rigour"]
 +++
-

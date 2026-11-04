@@ -1,6 +1,6 @@
 +++
 title = "Site d'e-commerce de démonstration"
-description = "Pattern designs, git collaboration and CI/CD"
+description = "Pattern designs, collaboration git et CI/CD"
 weight = 20
 date = 2026-02-13
 
