@@ -1,6 +1,5 @@
 +++
 template = "homepage.html"
-title = "Louis THOMAS-GIRARDEY"
 
 [extra]
 path_to_exp = "experience/_index.md"
