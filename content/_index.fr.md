@@ -38,7 +38,7 @@ Mes expériences en développement full-stack, IoT et rendu 3D temps réel m'ont
     <a href="/media/CV_Louis_TG__2026-11-01.pdf" target="_blank">
         Mon CV &darr;
     </a>
-    <a href="/projects" style="margin-left: 20px">
+    <a href="/fr/projects" style="margin-left: 20px">
         Mes projets &rarr;
     </a>
 </div>
