@@ -6,10 +6,13 @@ path_to_exp = "experience/_index.md"
 path_to_edu = "education/_index.md"
 
 meta = [
+    { property = "description", content = "Ingénieur génie logiciel, cybersécurité & infrastructure" },
+
     { property = "og:title", content = "Louis THOMAS-GIRARDEY" },
     { property = "og:description", content = "Ingénieur génie logiciel, cybersécurité & infrastructure" },
     { property = "og:url", content = "https://louis.thomasgirardey.fr" },
     { property = "og:image", content = "https://louis.thomasgirardey.fr/media/og_image_dark.png" },
+    { property = "og:site_name", content = "Louis THOMAS-GIRARDEY" },
 
     { name = "twitter:card", content = "summary_large_image" },
     { name = "twitter:title", content = "Louis THOMAS-GIRARDEY" },
