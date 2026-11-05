@@ -3,7 +3,7 @@ base_url = "https://louis.thomasgirardey.fr"
 
 build_search_index = false
 compile_sass = true
-minify_html = true
+minify_html = false  #TODO: re-enable when https://github.com/getzola/zola/issues/3302 will be fixed
 
 theme = "apollo-portfolio"
 
