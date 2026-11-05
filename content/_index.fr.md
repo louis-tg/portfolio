@@ -6,7 +6,7 @@ path_to_exp = "experience/_index.md"
 path_to_edu = "education/_index.md"
 
 meta = [
-    { property = "description", content = "Ingénieur génie logiciel, cybersécurité & infrastructure" },
+    { name = "description", content = "Ingénieur génie logiciel, cybersécurité & infrastructure" },
 
     { property = "og:title", content = "Louis THOMAS-GIRARDEY" },
     { property = "og:description", content = "Ingénieur génie logiciel, cybersécurité & infrastructure" },
