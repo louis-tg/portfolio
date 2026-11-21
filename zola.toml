@@ -29,8 +29,12 @@ title = "Louis THOMAS-GIRARDEY"
 copyright = "Louis THOMAS-GIRARDEY"
 favicon = "/icons/favicon.ico"
 
+# Source code link (footer, optional)
 repo_url = "https://github.com/louis-tg/portfolio/"
 repo_view = false
+
+# Status page link (footer, optional)
+status_page_link = "https://status.thomasgirardey.fr"
 
 allow_missing_translation_pages = false
 allow_missing_translation_sections = false
