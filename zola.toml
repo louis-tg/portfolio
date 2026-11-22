@@ -60,7 +60,7 @@ enabled = true
 #
 [extra.analytics.umami]
 website_id = "d29bbbe3-c6fc-42cf-870f-ccc66011788a"
-host_url = "https://umami.lasercata.com" # default: https://api-gateway.umami.dev/
+host_url = "https://u.lasercata.com" # default: https://api-gateway.umami.dev/
 enable_heatmap = true
 
 [extra.en]
